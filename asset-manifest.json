@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/01.memo.git/static/css/main.a617e044.chunk.css",
-    "main.js": "/01.memo.git/static/js/main.889bf93f.chunk.js",
-    "main.js.map": "/01.memo.git/static/js/main.889bf93f.chunk.js.map",
-    "runtime-main.js": "/01.memo.git/static/js/runtime-main.5a0b38ee.js",
-    "runtime-main.js.map": "/01.memo.git/static/js/runtime-main.5a0b38ee.js.map",
-    "static/js/2.d25630b0.chunk.js": "/01.memo.git/static/js/2.d25630b0.chunk.js",
-    "static/js/2.d25630b0.chunk.js.map": "/01.memo.git/static/js/2.d25630b0.chunk.js.map",
-    "static/js/3.5ed7e629.chunk.js": "/01.memo.git/static/js/3.5ed7e629.chunk.js",
-    "static/js/3.5ed7e629.chunk.js.map": "/01.memo.git/static/js/3.5ed7e629.chunk.js.map",
-    "index.html": "/01.memo.git/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/01.memo.git/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d25630b0.chunk.js.LICENSE.txt": "/01.memo.git/static/js/2.d25630b0.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/01.memo.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/01.memo/static/css/main.a617e044.chunk.css",
+    "main.js": "/01.memo/static/js/main.889bf93f.chunk.js",
+    "main.js.map": "/01.memo/static/js/main.889bf93f.chunk.js.map",
+    "runtime-main.js": "/01.memo/static/js/runtime-main.a330b2a4.js",
+    "runtime-main.js.map": "/01.memo/static/js/runtime-main.a330b2a4.js.map",
+    "static/js/2.d25630b0.chunk.js": "/01.memo/static/js/2.d25630b0.chunk.js",
+    "static/js/2.d25630b0.chunk.js.map": "/01.memo/static/js/2.d25630b0.chunk.js.map",
+    "static/js/3.5ed7e629.chunk.js": "/01.memo/static/js/3.5ed7e629.chunk.js",
+    "static/js/3.5ed7e629.chunk.js.map": "/01.memo/static/js/3.5ed7e629.chunk.js.map",
+    "index.html": "/01.memo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/01.memo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.d25630b0.chunk.js.LICENSE.txt": "/01.memo/static/js/2.d25630b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/01.memo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a0b38ee.js",
+    "static/js/runtime-main.a330b2a4.js",
     "static/js/2.d25630b0.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.889bf93f.chunk.js"
